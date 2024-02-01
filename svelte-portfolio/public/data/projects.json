@@ -1,0 +1,23 @@
+{
+    "projects":[
+        {"Title": "Techwaste",
+        "Description": "Contributing for making Techwaste E-waste management system, I made Techwaste Backend API using FastAPI, Over 22 Endpoints were created and deployed to GCP’s CloudRun.",
+        "tag": "Backend",
+        "link":"https://github.com/Techwaste"},
+
+        {"Title": "Perita",
+        "Description": "A social app to share your story. allows you to share your story with the world. With Perita, you can create and share stories in a variety of formats, including text and photos. You can also see others story share your interests.",
+        "tag": "Android",
+        "link":"https://github.com/Riveong/Perita"},
+
+        {"Title": "Tutoreal",
+        "Description": "Contributing + my thesis title about personality based matchmaking between teacher and student. I made the backend with FastAPI, Using MAB (for my thesis)",
+        "tag": "Backend",
+        "link":"https://github.com/MasTutor"},
+
+        {"Title": "Neomli (In progress)",
+        "Description": "Neomli is a discord bot related to anime and stuff",
+        "tag": "Discord Bot",
+        "link":"https://github.com/Riveong/Neomli"}
+    ]
+}
