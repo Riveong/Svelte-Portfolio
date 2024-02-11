@@ -5,7 +5,7 @@
 	import Portfolio from './Portfolio.svelte';
     import Nav from './nav.svelte';
 	import Card from './card.svelte';
-	import Blog from './blog.svelte';
+
 </script>
   
 <main style="background-image: url('https://e0.pxfuel.com/wallpapers/326/283/desktop-wallpaper-zoom-background-nomad%C2%AE-dark-website.jpg');">
@@ -15,10 +15,8 @@
 		<Aboutme/>
 		<Portfolio/>
 		<Card />
-		
-		
-		
-	</div><Footer />
+	</div>
+	<Footer />
 </main>
 
 <style>

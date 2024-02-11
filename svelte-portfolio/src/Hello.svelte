@@ -6,12 +6,17 @@
 <header>
     <img src="{banner}" alt="banner"  class="profile"/>
     <h1 style="text-align: center;">👋 Hiya! I'm Ong Riverine</h1>
-    <p>Welcome to Portfolio and blog! In here, you can find yourself in a world of ideas and inspiration 💡. This is a place where creativity meets curiosity ⚡, where learning meets laughter, and where thought-provoking insights meet the warmth of shared <b>experiences 📚.</b></p>
+    <b>Back-end Developer</b>
+    <p>Welcome to my portfolio and blog! In here, you can find yourself in a world of ideas and inspiration 💡. This is a place where creativity meets curiosity ⚡, where learning meets laughter, and where thought-provoking insights meet the warmth of shared <b>experiences 📚.</b></p>
     <button class="btn">Download CV</button> 
-    <button class="btn">Email me</button>
+    <a href="mailto: ongrive@gmail.com" class="btn">Email me</a>
   </header>
   
   <style>
+    b {
+      color: #ffffff;
+    }
+
     header {
     text-align: center;
     padding: 10px;
@@ -39,6 +44,5 @@
     border: solid #ffffff 2px;
     text-decoration: none;
   }
-
-
+  
   </style>

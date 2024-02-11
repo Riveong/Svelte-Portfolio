@@ -10,6 +10,13 @@
 
 <h1>Projects</h1>
 <div id="projects"class="cards-container" style="background-color: #1c1c1c ;">
+  <div>
+    <h2>20+ Projects</h2>
+    <p class="intro">Over 20+ projects have been finished,
+    <br>here are the most notable projects
+    <br> for more projects you can check my github</p>
+    <a href="https://github.com/Riveong" class="btn">Github</a>
+  </div>
   {#each projects as project}
     <div class="card">
       <h3>{project.Title}</h3>
@@ -57,6 +64,28 @@
     color: blue;
     text-decoration: none;
   }
+
+  h2{
+    color: #fff;
+  }
+
+  p.intro{
+    color: #fff;
+  }
+
+  .btn {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #ffffff;
+    background-color: transparent;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    border: solid #ffffff 2px;
+    text-decoration: none;
+  }
+
 </style>
 
   
