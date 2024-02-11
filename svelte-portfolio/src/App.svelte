@@ -14,7 +14,6 @@
 		<Hello />
 		<Aboutme/>
 		<Portfolio/>
-		<Blog />
 		<Card />
 		
 		

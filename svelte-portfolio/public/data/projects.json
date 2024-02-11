@@ -12,12 +12,18 @@
 
         {"Title": "Tutoreal",
         "Description": "Contributing + my thesis title about personality based matchmaking between teacher and student. I made the backend with FastAPI, Using MAB (for my thesis)",
-        "tag": "Backend",
+        "tag": "Backend, ML Deployment",
         "link":"https://github.com/MasTutor"},
 
         {"Title": "Neomli (In progress)",
         "Description": "Neomli is a discord bot related to anime and stuff",
         "tag": "Discord Bot",
-        "link":"https://github.com/Riveong/Neomli"}
+        "link":"https://github.com/Riveong/Neomli"},
+
+        {"Title": "Octavia",
+        "Description": "Octavia is a all in one cashier app with stock management, and warehouse management. Octavia can be defined as the app you need for your business. I made this project using Svelte (front-end) and FastAPI for the backend.",
+        "tag": "Backend, Svelte",
+        "link":"https://github.com/Riveong/Octavia"}
+
     ]
 }
