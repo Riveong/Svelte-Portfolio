@@ -8,8 +8,9 @@
     <h1 style="text-align: center;">👋 Hiya! I'm Ong Riverine</h1>
     <b>Back-end Developer</b>
     <p>Welcome to my portfolio and blog! In here, you can find yourself in a world of ideas and inspiration 💡. This is a place where creativity meets curiosity ⚡, where learning meets laughter, and where thought-provoking insights meet the warmth of shared <b>experiences 📚.</b></p>
-    <button class="btn">Download CV</button> 
+    <a href="https://cdn.discordapp.com/attachments/1092068601906876496/1206218437731426404/CV_ONG_GABRIEL_RIVERINE_SUSANTO.pdf?ex=65db3576&is=65c8c076&hm=22efabcf186c6ba1d87d856162e6b8ae23c98c9790ce2d96ff52328958d00b0d&" class="btn">Download CV</a>
     <a href="mailto: ongrive@gmail.com" class="btn">Email me</a>
+    
   </header>
   
   <style>
