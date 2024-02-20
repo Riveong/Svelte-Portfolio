@@ -11,7 +11,7 @@
     <ul>
       <li><button on:click={() => scrollToSection('about')}>About Me</button></li>
       <li><button on:click={() => scrollToSection('projects')}>Projects</button></li>
-      <li><button on:click={() => scrollToSection('blog')}>Blog</button></li>
+      <li><a href="https://blog.riveong.com" class="btn">Blog</a></li>
     </ul>
   </nav>
   <a href="https://www.youtube.com/channel/UC5s3FdG5mlgcQ9XofSF8p6w"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC5s3FdG5mlgcQ9XofSF8p6w?style=for-the-badge&logo=Youtube&logoColor=red"></a>
@@ -49,6 +49,17 @@
       font-size: 16px;
       transition: color 0.3s;
     }
+
+    .btn {
+      background: none;
+      border: none;
+      color: white;
+      cursor: pointer;
+      font-size: 16px;
+      transition: color 0.3s;
+    }
+
+    .btn:hover{ color: lightblue; /* Color on hover */}
   
     button:hover {
       color: lightblue; /* Color on hover */
