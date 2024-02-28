@@ -35,6 +35,13 @@
     a {
       display: flex;
       justify-content: flex-end;
+      background: none;
+      border: none;
+      color: white;
+      cursor: pointer;
+      font-size: 16px;
+      transition: color 0.3s;
+    
     }
   
     nav li {
